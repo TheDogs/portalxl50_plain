@@ -84,7 +84,11 @@ class cache extends acm
 	
 			while ($row = $db->sql_fetchrow($result))
 			{
-				$cached_portal_config[$row['config_name']] = $row['config_value'];
+				if (!$row['is_dynamic'])
+				{
+					$cached_portal_config[$row['config_name']] = $row['config_value'];
+				}
+	
 				$portal_config[$row['config_name']] = $row['config_value'];
 			}
 			$db->sql_freeresult($result);

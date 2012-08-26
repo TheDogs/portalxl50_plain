@@ -1706,7 +1706,7 @@ Have a recent backup of your forum and database first!
 
 The next steps will creating your portal.
 
-- unpack archive Portal_XL50_Plain-3.0.10.rar to a temporary directory
+- unpack archive Portal_XL50_Plain-3.0.11.rar to a temporary directory
 - copy/uload all content from the package directory \root\ to your forum root and be sure all is in place.
 - browse to \install\index.php to start the installation script.
 

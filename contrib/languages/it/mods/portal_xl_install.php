@@ -96,6 +96,7 @@ $lang = array_merge($lang, array(
 		<li>Portal XL 5.0 Plain 0.2 (21-11-2010) pbpBB 3.0.8</li>
 		<li>Portal XL 5.0 Plain 0.2 (12-07-2011) pbpBB 3.0.9</li>
 		<li>Portal XL 5.0 Plain 0.2 (05-01-2012) pbpBB 3.0.10</li>
+		<li>Portal XL 5.0 Plain 0.2 (08-27-2012) pbpBB 3.0.11</li>
 	</ul></p><br />Per proseguire, scegli tra le schede disponibili nel menu a sinistra e in alto.',
 	
 	'PORTAL_SQL_UPDATE_DONE'		=> '<strong>Azione database:</strong><br />',

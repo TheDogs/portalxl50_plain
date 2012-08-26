@@ -9,7 +9,7 @@
     <license><![CDATA[http://opensource.org/licenses/gpl-license.php GNU General Public License v2]]></license>
     <title lang="en"><![CDATA[Portal XL 5.0 ~ Plain (Basic)]]></title>
     <description lang="en"><![CDATA[Your insane crazy ass-kicking portal system for use with phpBB 3.0.x.]]></description>
-    <author-notes lang="en"><![CDATA[Tested with phpBB 3.0.10
+    <author-notes lang="en"><![CDATA[Tested with phpBB 3.0.11
 All files contribute XHTML and UTF-8. 
 Demo, development and bug board is: http://www.portalxl.nl/forum/. 
 Dutch, German, English promotion, feature, about site is: http://www.portalxl.nl/forum/. 
@@ -50,9 +50,16 @@ Creative Commons Attribution-NonCommercial 2.5 License http://creativecommons.or
     <installation>
       <level>intermediate</level>
       <time>7200</time>
-      <target-version>3.0.10</target-version>
+      <target-version>3.0.11</target-version>
     </installation>
     <history>
+      <entry>
+        <date>2012-08-27</date>
+        <rev-version>Plain 0.2</rev-version>
+        <changelog lang="en">
+          <change><![CDATA[release of Portal XL 5.0 Plain 0.2 update to phpBB 3.0.11]]></change>
+        </changelog>
+      </entry>
       <entry>
         <date>2011-07-12</date>
         <rev-version>Plain 0.2</rev-version>
@@ -2012,7 +2019,7 @@ Have a recent backup of your forum and database first!
 
 The next steps will creating your portal.
 
-- unpack archive Portal_XL50_Plain-3.0.10.rar to a temporary directory
+- unpack archive Portal_XL50_Plain-3.0.11.rar to a temporary directory
 - copy/uload all content from the package directory \root\ to your forum root and be sure all is in place.
 - browse to \install\index.php to start the installation script.
 
