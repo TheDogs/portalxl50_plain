@@ -5,7 +5,7 @@
 * @package phpBB3 Portal XL 5.0
 * @version $Id: acp_portal_acronyms.php,v 1.2 2009/05/15 22:13:03 portalxl group Exp $
 *
-* @copyright (c) 2007, 2011 Portal XL Group
+* @copyright (c) 2007, 2013 Portal XL Group
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License 
 *
 */

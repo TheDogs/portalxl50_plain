@@ -5,7 +5,7 @@
 * @package phpBB3 Portal XL
 * @version $Id: portal_pages.php,v 1.3 2009/10/06 portalxl group Exp $
 *
-* @copyright (c) 2007, 2011 Portal XL Group
+* @copyright (c) 2007, 2013 Portal XL Group
 * @license http://opensource.org/licenses/gpl-2.0.php The GNU General Public License (GPL)
 *
 */
